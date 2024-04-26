@@ -1,14 +1,20 @@
 <template>
-    <header class="bg-mountain-meadow-200 py-2">
-        <main class="container mx-auto flex flex-row justify-between">
-            <div class="text-white text-lg font-bold">
-                <nuxt-link to="/">Site Name</nuxt-link>
+    <header class="bg-dodger-blue-200 py-4">
+        <main class="container mx-auto items-center flex flex-col md:flex-row justify-between gap-4 text-center">
+            <div class="flex flex-row items-center text-lg font-bold md:text-left gap-3">
+                <img class="h-10" src="https://www.northwestu.edu/assets/svgs/nu-shield-color.svg">
+                <nuxt-link to="/">
+                    <span class="dark:text-slate-400">My </span>
+                    <span class="text-blue-700">NU </span>
+                    <span class="dark:text-slate-400">Life</span>
+                </nuxt-link>
             </div>
-            <nav class="flex flex-row justify-end gap-4">
-                <nuxt-link to="/page1">Page 1</nuxt-link>
-                <nuxt-link to="/page2">Page 2</nuxt-link>
-                <nuxt-link to="/page3">Page 3</nuxt-link>
-                <nuxt-link to="/page4">Page 4</nuxt-link>
+            <nav class="flex flex-col md:flex-row justify-end gap-6 md:text-right">
+                <nuxt-link to="/">Home</nuxt-link>
+                <nuxt-link to="/page1">NU Life</nuxt-link>
+                <nuxt-link to="/page2">Travel</nuxt-link>
+                <nuxt-link to="/page3">Study</nuxt-link>
+                <nuxt-link to="/page4">Projects</nuxt-link>
             </nav>
         </main>
     </header>

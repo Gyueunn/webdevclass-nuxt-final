@@ -1,26 +1,57 @@
 <template>
-    <footer class="bg-gray-200 border-t text-center border-gray-300 p-8">
-        <div class="mb-6 text-lg">
-            <nuxt-link to="/" class="roboto">Site Name</nuxt-link>
-        </div>
-        <nav class="flex flex-row justify-center gap-4">
-            <nuxt-link to="/page1">Page 1</nuxt-link>
-            <nuxt-link to="/page2">Page 2</nuxt-link>
-            <nuxt-link to="/page3">Page 3</nuxt-link>
-            <nuxt-link to="/page4">Page 4</nuxt-link>
-        </nav>
-        <div>
-            <div class="btn">Hi</div>
-        </div>
-        <div>
-            <nuxt-link to="/page4">  
-                <button class="bg-sky-600 text-white px-6 py-2">Say Hi</button>
-            </nuxt-link>
-        </div>
-        <div>
-            <a href="https://microsoft.com">
-                <button class="bg-sky-600 text-white px-6 py-2">Go to Microsoft</button>
-            </a>
-        </div>
-    </footer>
+    <footer class="mt-28 bg-slate-50 dark:bg-black">
+  <div
+    class="container mx-auto flex flex-col items-start space-y-12 px-8 pb-8 pt-12 md:flex-row md:space-y-0 md:space-x-12 md:px-12"
+  >
+    <div
+      class="flex w-full flex-col space-y-4 text-center md:w-2/6 md:text-left"
+    >
+      <div class="w-full text-lg font-extrabold md:w-fit md:text-left">
+        <nuxt-link to="/">
+            <span class="dark:text-slate-400">My </span>
+            <span class="text-blue-700">NU </span>
+            <span class="dark:text-slate-400">Life</span>
+        </nuxt-link>
+      </div>
+      <p class="text-sm text-slate-600">
+        This web contains records of my exchange student life. Please watch the exchange student's journey with interest.
+      </p>
+    </div>
+    <div class="w-full text-center text-slate-600 md:w-1/6 md:text-left">
+      <div class="text-sm font-semibold">
+        <nuxt-link to="/">Home</nuxt-link>
+      </div>
+    </div>
+    <div class="w-full text-center text-slate-600 md:w-1/6 md:text-left">
+      <div class="text-sm font-semibold">
+        <nuxt-link to="/page1">NU Life</nuxt-link>
+      </div>
+    </div>
+    <div class="w-full text-center text-slate-600 md:w-1/6 md:text-left">
+      <div class="text-sm font-semibold">
+        <nuxt-link to="/page2">Travel</nuxt-link>
+      </div>
+    </div>
+    <div class="w-full text-center text-slate-600 md:w-1/6 md:text-left">
+      <div class="text-sm font-semibold text-slate-600">
+        <nuxt-link to="/page3">Study</nuxt-link>
+      </div>
+    </div>
+    <div class="w-full text-center text-slate-600 md:w-1/5 md:text-left">
+      <div class="text-sm font-semibold text-slate-600">
+        <nuxt-link to="/page4">Projects</nuxt-link>
+      </div>
+    </div>
+  </div>
+  <div
+    class="container mx-auto border-t border-slate-200 p-8 text-center text-sm text-slate-600 dark:border-slate-900 md:flex-row md:px-12"
+  >
+    ©
+    
+    2022
+    
+    MyNULife. All rights reserved.
+  </div>
+</footer>
 </template>
+
