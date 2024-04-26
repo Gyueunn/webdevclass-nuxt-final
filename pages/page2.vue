@@ -27,6 +27,10 @@
     </main>
         </div>
     </main> -->
+    <!-- <div class="bg-cover bg-bottom" style="background-image: url('/A.jpg')">
+        <div class="bg-white bg-opacity-40"> -->
+        <!-- </div>
+    </div> -->
 </template>
 <script setup>
 useHead({
