@@ -46,11 +46,7 @@
   <div
     class="container mx-auto border-t border-slate-200 p-8 text-center text-sm text-slate-600 dark:border-slate-900 md:flex-row md:px-12"
   >
-    ©
-    
-    2022
-    
-    MyNULife. All rights reserved.
+    ©2024 MyNULife. All rights reserved.
   </div>
 </footer>
 </template>

@@ -9,7 +9,7 @@
                     <span class="dark:text-slate-400">Life</span>
                 </nuxt-link>
             </div>
-            <nav class="flex flex-col md:flex-row justify-end gap-6 md:text-right">
+            <nav class="flex flex-col md:flex-row font-bold justify-end gap-6 md:text-right">
                 <nuxt-link to="/">Home</nuxt-link>
                 <nuxt-link to="/page1">NU Life</nuxt-link>
                 <nuxt-link to="/page2">Travel</nuxt-link>
