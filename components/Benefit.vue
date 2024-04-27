@@ -5,7 +5,7 @@
                     <span class="text-blue-800">Best benefits</span>
                     for small and medium businesses
                 </h1>
-                <p class="mt-10 text-1xl sm:text-2xl">
+                <p class="text-center mt-10 text-1xl sm:text-2xl">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt velit laboriosam beatae aliquid 
                     cumque itaque, repellat nemo incidunt natus repellendus porro magni maxime dolor officia labore possimus? Perspiciatis, voluptatibus magni.
                 </p>
@@ -16,7 +16,7 @@
             <img
             alt="Trusted and secured"
             class="mx-auto mb-4 h-80 dark:contrast-200 dark:invert"
-            src="/cp.jpeg"
+            src="/project1.jpeg"
             />
             <h2
             class="mb-2 text-xl font-bold leading-tight dark:text-slate-50 md:text-xl"
@@ -29,7 +29,7 @@
         </div>
         <div class="text-center">
             <a
-            class="group relative mx-auto inline-block text-sm font-semibold text-slate-900 underline decoration-blue-300 decoration-2 underline-offset-8 transition hover:decoration-slate-700 dark:text-slate-200 dark:hover:decoration-slate-200 sm:m-0"
+            class="group relative mx-auto inline-block text-sm font-semibold text-slate-900 underline decoration-blue-700 decoration-2 underline-offset-8 transition hover:decoration-slate-700 dark:text-slate-200 dark:hover:decoration-slate-200 sm:m-0"
             href="https://github.com/Gyueunn/Web_Development_2024.git"
             >
             Read more
@@ -58,7 +58,7 @@
             <img
             alt="Multi layer security"
             class="mx-auto mb-4 h-80 dark:contrast-200 dark:invert"
-            src="/cp.jpeg"
+            src="/project2.jpeg"
             />
             <h2
             class="mb-2 text-xl font-bold leading-tight dark:text-slate-50 md:text-xl"
@@ -72,7 +72,7 @@
         </div>
         <div class="text-center">
             <a
-            class="group relative mx-auto inline-block text-sm font-semibold text-slate-900 underline decoration-blue-300 decoration-2 underline-offset-8 transition hover:decoration-slate-700 dark:text-slate-200 dark:hover:decoration-slate-200 sm:m-0"
+            class="group relative mx-auto inline-block text-sm font-semibold text-slate-900 underline decoration-blue-700 decoration-2 underline-offset-8 transition hover:decoration-slate-700 dark:text-slate-200 dark:hover:decoration-slate-200 sm:m-0"
             href="https://github.com/Gyueunn/webdevclass-nuxt-final.git"
             >
             Read more
@@ -101,7 +101,7 @@
             <img
             alt="Meaningful insight"
             class="mx-auto mb-4 h-80 dark:contrast-200 dark:invert"
-            src="/cp.jpeg"
+            src="/project3.jpeg"
             />
             <h2
             class="mb-2 text-xl font-bold leading-tight dark:text-slate-50 md:text-xl"
@@ -115,7 +115,7 @@
         </div>
         <div class="text-center">
             <a
-            class="group relative mx-auto inline-block text-sm font-semibold text-slate-900 underline decoration-blue-300 decoration-2 underline-offset-8 transition hover:decoration-slate-700 dark:text-slate-200 dark:hover:decoration-slate-200 sm:m-0"
+            class="group relative mx-auto inline-block text-sm font-semibold text-slate-900 underline decoration-blue-700 decoration-2 underline-offset-8 transition hover:decoration-slate-700 dark:text-slate-200 dark:hover:decoration-slate-200 sm:m-0"
             href="https://github.com/Northwest-University"
             >
             Read more

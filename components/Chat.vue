@@ -76,7 +76,7 @@
                 <time class="text-xs opacity-50">12:53</time>
             </div>
             <div class="chat-bubble text-2xl">
-                I want to make various friends and try new things without hesitation. 
+                I want to make foreign friends and try new things without hesitation. 
                 <p>And I hope I have time to grow up in my major.</p>
             </div>
         </div>
