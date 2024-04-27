@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <section class="container mx-auto px-12 py-28">
         <div class="mb-24 w-full sm:mx-auto sm:mb-20 sm:w-4/5">
                 <h1 class="text-center text-4xl sm:text-6xl font-extrabold dark:text-slate-50">
@@ -141,4 +141,4 @@
         </div>
     </div>
     </section>
-</template>
+</template> -->
