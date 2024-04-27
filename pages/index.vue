@@ -1,6 +1,6 @@
 <template>
     <div class="bg-cover min-h-full bg-Top" style="background-image: url('/HP.png')">
-        <div class="bg-black bg-opacity-50">
+        <div class="bg-white bg-opacity-30">
             <Hero/>
         </div>
     </div>

@@ -1,5 +1,9 @@
 <template>
-    Projects
+    <main class="bg-cover bg-top h-full" style="background-image: url('/campus.jpeg')">
+        <div class="bg-white bg-opacity-60">
+            <Benefit/>
+        </div>
+    </main>
 </template>
 <script setup>
 useHead({

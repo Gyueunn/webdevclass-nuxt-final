@@ -1,6 +1,6 @@
 <template>
     <section class="container mx-auto px-8 py-28 sm:px-12 ">
-        <div class="text-white text-center">
+        <div class="text-black text-center">
             <h1 class="sm:mb-18 w-full text-center p-20 text-4xl sm:text-6xl font-extrabold pt-3 dark:text-slate-50 sm:mx-auto sm:w-4/5">
                 Hello, Let me introduce
                 <p class="text-blue-800 text-5xl sm:text-7xl"> My Exchange Student</p>
