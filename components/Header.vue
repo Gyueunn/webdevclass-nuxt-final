@@ -12,8 +12,8 @@
             <nav class="flex flex-col md:flex-row font-bold justify-end gap-6 md:text-right">
                 <nuxt-link to="/">Home</nuxt-link>
                 <nuxt-link to="/page1">NU Life</nuxt-link>
-                <nuxt-link to="/page2">Travel</nuxt-link>
-                <nuxt-link to="/page3">Study</nuxt-link>
+                <nuxt-link to="/page2">Travels</nuxt-link>
+                <nuxt-link to="/page3">Classes</nuxt-link>
                 <nuxt-link to="/page4">Projects</nuxt-link>
             </nav>
         </main>

@@ -29,12 +29,12 @@
     </div>
     <div class="w-full text-center text-slate-600 md:w-1/6 md:text-left">
       <div class="text-sm font-semibold">
-        <nuxt-link to="/page2">Travel</nuxt-link>
+        <nuxt-link to="/page2">Travels</nuxt-link>
       </div>
     </div>
     <div class="w-full text-center text-slate-600 md:w-1/6 md:text-left">
       <div class="text-sm font-semibold text-slate-600">
-        <nuxt-link to="/page3">Study</nuxt-link>
+        <nuxt-link to="/page3">Classes</nuxt-link>
       </div>
     </div>
     <div class="w-full text-center text-slate-600 md:w-1/5 md:text-left">

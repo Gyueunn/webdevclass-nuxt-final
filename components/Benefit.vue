@@ -2,8 +2,8 @@
     <section class="container mx-auto px-12 py-28">
         <div class="mb-24 w-full sm:mx-auto sm:mb-20 sm:w-4/5">
                 <h1 class="text-center text-4xl sm:text-6xl font-extrabold dark:text-slate-50">
-                    <span class="text-blue-800">Best benefits</span>
-                    for small and medium businesses
+                    <span class="text-blue-800">My Projects</span>
+                    in NU
                 </h1>
                 <p class="text-center mt-10 text-1xl sm:text-2xl">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt velit laboriosam beatae aliquid 

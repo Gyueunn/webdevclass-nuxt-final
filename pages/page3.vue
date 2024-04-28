@@ -3,7 +3,12 @@
         <section class="max-w-screen-md mx-auto min-h-full flex flex-col-reverse md:flex-row-reverse justify-between">
             <article class="h-96 flex flex-row flex-1 items-center p-8">
                 <div>
-                    <h1 class="font-bold text-3xl text-dodger-blue-900">This is My NU Class!</h1>
+                    <span class="font-bold text-4xl text-blue-800">
+                        My Classes
+                    </span> 
+                    <span class="font-bold text-4xl text-dodger-blue-900">
+                        in NU
+                    </span>
                     <p>dsdsdsd</p>        
                 </div>
             </article>
