@@ -30,7 +30,7 @@
             </div>
         </div>
         <div class="card w-50 bg-base-100 shadow-xl">
-            <figure><img src="/sp2.jpeg"></figure>
+            <figure><img src="/sp1.jpeg"></figure>
             <div class="card-body">
                 <h2 class="card-title">
                     Course Title: Speaking VI
