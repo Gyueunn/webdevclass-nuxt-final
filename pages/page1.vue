@@ -7,7 +7,7 @@
                         This is
                     </p>
                     <span class="font-bold text-4xl text-blue-800">
-                        My Campus Life
+                        My NU Life
                     </span> 
                     <p>There are many new things I experienced through NU's campus life. It will be remembered as a good memory. I would like to introduce some memorable things from NU's life below.</p>        
                 </div>

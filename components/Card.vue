@@ -3,8 +3,8 @@
         <main class="mb-24 w-full sm:mx-auto sm:mb-20 sm:w-4/5">
             <div class="mb-24 w-full sm:mx-auto sm:mb-20 sm:w-4/5">
                 <h1 class="text-center text-4xl sm:text-6xl font-extrabold dark:text-slate-50">
-                    <span class="text-blue-800">Travels</span>
-                    as exchange students
+                    <span class="text-blue-800">My Travels</span>
+                    during the exchange student
                 </h1>
                 <p class="text-center mt-10 text-1xl sm:text-2xl">
                     During my exchange student period, I traveled to many places in Seattle and Kirkland. Among the countless places, I would like to introduce the places I like and want to remember the most.
