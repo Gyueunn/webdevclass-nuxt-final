@@ -34,7 +34,7 @@
     </div>
     <div class="w-full text-center text-slate-600 md:w-1/6 md:text-left">
       <div class="text-sm font-semibold text-slate-600">
-        <nuxt-link to="/page3">Classes</nuxt-link>
+        <nuxt-link to="/page3">Courses</nuxt-link>
       </div>
     </div>
     <div class="w-full text-center text-slate-600 md:w-1/5 md:text-left">

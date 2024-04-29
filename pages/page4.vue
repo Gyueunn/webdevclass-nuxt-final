@@ -7,9 +7,9 @@
 </template>
 <script setup>
 useHead({
-    title: "My Projects Page",
+    title: "Projects Page",
     meta:[
-        {name: 'description', content:'My Projects Page'}
+        {name: 'description', content:'Projects Page'}
     ]
 })
 </script>

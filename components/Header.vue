@@ -13,7 +13,7 @@
                 <nuxt-link to="/">Home</nuxt-link>
                 <nuxt-link to="/page1">NU Life</nuxt-link>
                 <nuxt-link to="/page2">Travels</nuxt-link>
-                <nuxt-link to="/page3">Classes</nuxt-link>
+                <nuxt-link to="/page3">Courses</nuxt-link>
                 <nuxt-link to="/page4">Projects</nuxt-link>
             </nav>
         </main>

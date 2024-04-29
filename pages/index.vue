@@ -10,9 +10,9 @@
 </template>
 <script setup>
 useHead({
-    title: "My Home Page",
+    title: "Home Page",
     meta:[
-        {name: 'description', content:'My Home Page'}
+        {name: 'description', content:'Home Page'}
     ]
 })
 </script>
