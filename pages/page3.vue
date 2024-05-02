@@ -1,5 +1,5 @@
 <template>
-    <main class="bg-dodger-blue-50">
+    <section class="bg-dodger-blue-50">
         <section class="max-w-screen-md mx-auto min-h-full flex flex-col-reverse md:flex-row-reverse justify-between">
             <article class="h-96 flex flex-row flex-1 items-center p-8">
                 <div>
@@ -16,8 +16,8 @@
                 <div class="p-8 w-full h-96"></div>
             </article>
         </section>
-    </main>
-    <main class="grid grid-cols-1 sm:grid-cols-2 p-10 gap-8">
+    </section>
+    <section class="grid grid-cols-1 sm:grid-cols-2 p-10 gap-8">
         <div class="card w-50 bg-base-100 shadow-xl">
             <figure><img src="/wd_class.jpeg"></figure>
             <div class="card-body">
@@ -62,7 +62,7 @@
                 </h2>
             </div>
         </div>
-    </main>
+    </section>
 </template>
 <script setup>
 useHead({

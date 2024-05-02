@@ -1,9 +1,9 @@
 <template>
-    <main class="bg-cover bg-top h-full" style="background-image: url('/campus.jpeg')">
+    <section class="bg-cover bg-top h-full" style="background-image: url('/campus.jpeg')">
         <div class="bg-white bg-opacity-60">
             <Benefit/>
         </div>
-    </main>
+    </section>
 </template>
 <script setup>
 useHead({
