@@ -22,7 +22,7 @@
             <figure><img src="/wd_class.jpeg"></figure>
             <div class="card-body">
                 <h2 class="card-title">
-                    Course Title: Web Development [BMGT 3543 / INTC 3543]
+                    Course Tittle: Web Development [BMGT 3543 / INTC 3543]
                 </h2>
                 <h2 class="card-title">
                     Instructor: Tim Mushen
@@ -33,7 +33,7 @@
             <figure><img src="/sp1.jpeg"></figure>
             <div class="card-body">
                 <h2 class="card-title">
-                    Course Title: Speaking VI [LANG 0663]
+                    Course Tittle: Speaking VI [LANG 0663]
                 </h2>
                 <h2 class="card-title">
                     Instructor: Lisa Kim
@@ -44,7 +44,7 @@
             <figure><img src="/gm.jpeg"></figure>
             <div class="card-body">
                 <h2 class="card-title">
-                    Course Title: Grammar V [LANG 0523]
+                    Course Tittle: Grammar V [LANG 0523]
                 </h2>
                 <h2 class="card-title">
                     Instructor: Sara Wright
@@ -55,7 +55,7 @@
             <figure><img src="/cp.jpeg"></figure>
             <div class="card-body">
                 <h2 class="card-title">
-                    Course Title: Computer Programming I [INTC 2083]
+                    Course Tittle: Computer Programming I [INTC 2083]
                 </h2>
                 <h2 class="card-title">
                     Instructor: Kevin Gallo
