@@ -68,7 +68,7 @@
 useHead({
     title: "Courses Page",
     meta:[
-        {name: 'description', content:'Courses Page'}
+        {name: 'description', content:'My Courses Page'}
     ]
 })
 </script>

@@ -9,7 +9,7 @@
 useHead({
     title: "Travels Page",
     meta:[
-        {name: 'description', content:'Travels Page'}
+        {name: 'description', content:'My Travels Page'}
     ]
 })
 </script>

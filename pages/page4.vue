@@ -9,7 +9,7 @@
 useHead({
     title: "Projects Page",
     meta:[
-        {name: 'description', content:'Projects Page'}
+        {name: 'description', content:'My Projects Page'}
     ]
 })
 </script>

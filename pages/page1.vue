@@ -52,7 +52,7 @@
 useHead({
     title: "NU Life Page",
     meta:[
-        {name: 'description', content:'NU Life Page'}
+        {name: 'description', content:'My NU Life Page'}
     ]
 })
 </script>
