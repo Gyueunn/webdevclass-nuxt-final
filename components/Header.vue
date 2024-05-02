@@ -10,11 +10,6 @@
                 </nuxt-link>
             </div>
             <nav class="flex flex-col md:flex-row font-bold justify-end gap-6 md:text-right">
-                <!-- <nuxt-link to="/">Home</nuxt-link>
-                <nuxt-link to="/page1">NU Life</nuxt-link>
-                <nuxt-link to="/page2">Travels</nuxt-link>
-                <nuxt-link to="/page3">Courses</nuxt-link>
-                <nuxt-link to="/page4">Projects</nuxt-link> -->
                 <a href="/">Home</a>
                 <a href="/page1">NU Life</a>
                 <a href="/page2">Travels</a>
